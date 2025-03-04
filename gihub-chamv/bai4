@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đây là tiêu đề trang chủ</title>
+</head>
+<body>
+    <nav>
+        <a href="home.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <h1>Đây là tiêu đề trang chủ</h1>
+    <ul>
+        <li>đây là  nội dung trang chủ</li>
+        
+    </ul>
+</body>
